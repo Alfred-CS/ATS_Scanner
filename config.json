@@ -1,0 +1,8 @@
+{
+    "custom_keywords": ["Python", "Machine Learning", "Data Science"],
+    "keyword_weights": {
+        "Python": 1.0,
+        "Machine Learning": 1.5,
+        "Data Science": 1.0
+    }
+}
